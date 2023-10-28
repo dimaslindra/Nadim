@@ -4,7 +4,7 @@ body {
 
 .teks {
     color: rgb(255, 63, 95);
-    text-align: justify;
+    text-align: center;
     font-size: 40px;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
