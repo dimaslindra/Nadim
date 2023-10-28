@@ -1,0 +1,21 @@
+body {
+    background: rgb(0, 0, 0);
+}
+
+.teks1 {
+    color: yellow;
+    margin-top: 15px;
+    font-size: 70px;
+    text-align: center;
+}
+
+p {
+    color: white;
+    margin-top: -1px;
+    font-size: 50px;
+    text-align: center;
+}
+
+.gambar1 {
+    text-align: center;
+}

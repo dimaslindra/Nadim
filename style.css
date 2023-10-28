@@ -1,0 +1,30 @@
+body {
+    background: black;
+}
+
+.teks {
+    color: rgb(255, 63, 95);
+    text-align: center;
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.box1 {
+    background-color: rgb(255, 40, 76);
+    padding: 15px;
+    border-radius: 25px;
+    border: 2px solid orchid;
+    transition: all;
+}
+
+.box1:hover {
+    box-shadow: 5px 15px 15px red 400ms;
+    transform: scale(1.03);
+}
+
+a {
+    color: aqua;
+    font-size: 35px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-decoration-line: none;
+}
